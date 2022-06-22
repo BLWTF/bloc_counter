@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:bloc_counter/counter/view/counter_page.dart';
+import 'package:bloc_counter/counter/counter.dart';
 
 class CounterApp extends MaterialApp {
   const CounterApp({Key? key})
